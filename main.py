@@ -8,4 +8,4 @@ def fun2(n):
     for i in range(1, n+1):
         sum=+1
         return sum
-    print(fun2(4))
+    print(fun3(4))
